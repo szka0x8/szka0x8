@@ -1,6 +1,4 @@
 # 
-- Student
-- 19
 - low-level development & reverse engineering enthusiast
 
 ## Tech Stack
