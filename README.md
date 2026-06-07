@@ -13,7 +13,7 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuka0x8&hide_progress=false&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szka0x8&hide_progress=false&theme=radical)
 ---
 
 #### Spotify
