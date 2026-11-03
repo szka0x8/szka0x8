@@ -1,5 +1,6 @@
 # 
 - low-level development & reverse engineering enthusiast
+- occasional webdev
 
 ## Tech Stack
 
