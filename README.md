@@ -1,6 +1,7 @@
 # 
 - low-level development & reverse engineering enthusiast
 - occasional webdev
+- working on crmnl-ui
 
 ## Tech Stack
 
