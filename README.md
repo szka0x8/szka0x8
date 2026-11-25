@@ -1,7 +1,7 @@
 # 
 - low-level development & reverse engineering enthusiast
 - occasional webdev
-- working on crmnl-tools: cross-platform ui + scripting framework for game tooling
+- working on crmnl: cross-platform ui + scripting framework for game tooling
 
 ## Tech Stack
 
